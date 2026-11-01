@@ -53,6 +53,8 @@ brew install --cask codex
 - [**Introducing Codex — OpenAI Blog**](https://openai.com/index/introducing-codex/) — Original launch announcement. Cloud-based software engineering agent with sandboxed execution and GitHub integration.
 - [**Introducing the Codex App**](https://openai.com/index/introducing-the-codex-app/) — Desktop app evolution, covering the full software development lifecycle from design through shipping.
 
+- [**agent-qa Coding Agent Integration**](https://vostride.com/docs/agent-qa/coding-agents) — Official guide to connecting Codex CLI or Claude Code to agent-qa over MCP and packaged skills for web, Android and iOS testing. Covers writing and running tests, inspecting evidence, and managing persistent memidex knowledge.
+
 📄 [Full Codex data →](data/codex.md)
 
 ---
